@@ -1,4 +1,5 @@
-![logo](https://github.com/PRAKALP-PANDE/PRAKALP-PANDE/blob/main/banners-linkedin-blue.png)
+<!-- ![logo](https://github.com/PRAKALP-PANDE/PRAKALP-PANDE/blob/main/banners-linkedin-blue.png) -->
+![logo](https://github.com/PRAKALP-PANDE/PRAKALP-PANDE/blob/main/gcode_banner.jfif)
 <h1 align="center">Hello 👋, I'm Prakalp Pande</h1>
 <h3 align="center">Google Developer Student Clubs lead</h3>
 
