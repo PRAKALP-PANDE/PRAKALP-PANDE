@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 💬 Ask me about **React js**
+- 💬 Ask me about **MERN Stack, AI/ML**
 
 - 📫 How to reach me **prakalpsp16@gmail.com**
 
