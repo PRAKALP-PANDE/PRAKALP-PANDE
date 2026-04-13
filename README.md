@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=prakalp-pande&color=blue)
+
 # 👋 Hi, I'm Prakalp Pande
 
 ### 🚀 Data Engineer | GCP | Airflow | BigQuery
